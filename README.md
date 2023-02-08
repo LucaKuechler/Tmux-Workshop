@@ -56,6 +56,7 @@ To get back to the left split just press `STRG + SPACE` + `h`.
 * You can close a split by typing `exit`.
 &nbsp;
 
+&nbsp;
 ## 5. Create your first window
 * To create a new window use `STRG + SPACE` + `w`. It should look like this.
 ![](./resources/window.png)
@@ -69,6 +70,7 @@ You can switch to each window by using the number infront of their name.
 To leave the maximize mode just press `STRG + SPACE` + `z` again.
 &nbsp;
 
+&nbsp;
 ## 6. Create a new session
 > A new session can be used when working on two projects simultaneously. 
 
