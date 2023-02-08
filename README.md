@@ -12,7 +12,7 @@ You can use them for free but your changes are only stored for one hour or till 
 ## 2. Get to know the environment 
 &#11088; you can skip this step if you familiar with linux shells
 
-1. Enter the following command and press **ENTER**. The answer should be **root**.
+1. Enter the following command and press `ENTER`. The answer should be **root**.
     ```bash
     whoami
     ```
