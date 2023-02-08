@@ -23,10 +23,15 @@ You can use them for free but your changes are only stored for one hour or till 
     ```
 &nbsp;
 
-## 3. Get my tmux config
+## 3. Get a tmux config
 * Execute the following command inside the killercoda linux shell. This will download the configuration file from my github and place it in your home directory.
     ```bash
     wget https://raw.githubusercontent.com/LucaKuechler/Dotfiles/master/tmux/.tmux.conf -P ~/
+    ```
+* Or get another awesome tmux config like this: 
+
+    ```bash
+    wget https://raw.githubusercontent.com/DennisFeldbusch/Dotfiles/master/.tmux.conf -P ~/
     ```
 
 * Enter the following command in your shell
