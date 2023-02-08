@@ -6,6 +6,7 @@ You can use them for free but your changes are only stored for one hour or till 
 1. Visit [Killercoda](https://killercoda.com/playgrounds/scenario/ubuntu)
 2. Sign in using Google, Githu, Gitlab or Email
 3. Click **START**
+&nbsp;
 
 ## 2. Get to know the environment 
 &#11088; you can skip this step if you familiar with linux shells
@@ -19,6 +20,7 @@ You can use them for free but your changes are only stored for one hour or till 
     ```bash
     cd /root
     ```
+&nbsp;
 
 ## 3. Get my tmux config
 * Execute the following command inside the killercoda linux shell. This will download the configuration file from my github and place it in your home directory.
