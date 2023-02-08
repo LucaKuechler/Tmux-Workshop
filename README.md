@@ -4,7 +4,7 @@
 > Killercoda is a online plattform that offers interactive linux environments in the browser.
 You can use them for free but your changes are only stored for one hour or till you reload the page.
 1. Visit [Killercoda](https://killercoda.com/playgrounds/scenario/ubuntu)
-2. Sign in using Google, Githu, Gitlab or Email
+2. Sign in using Google, Github, Gitlab or Email
 3. Click **START**
 &nbsp;
 
@@ -27,6 +27,11 @@ You can use them for free but your changes are only stored for one hour or till 
 * Execute the following command inside the killercoda linux shell. This will download the configuration file from my github and place it in your home directory.
     ```bash
     wget https://raw.githubusercontent.com/LucaKuechler/Dotfiles/master/tmux/.tmux.conf -P ~/
+    ```
+
+* Enter the following command in your shell
+    ```bash
+    tmux
     ```
 
 * Your shell should now look like this.
@@ -110,3 +115,7 @@ then remember to change back to the session with the number that is shown to u a
 again which means the download is still running.
 
 5. For the people with a session number different than 0 change now back to your session number.
+
+6. Interrupt the sleep now using `STRG + c`
+
+7. &#127881; Well done. For more features you can look up my [cheatsheet](https://github.com/LucaKuechler/Dotfiles/blob/master/cheat/.config/cheat/tmux/tmux_general) or this [talk](https://www.youtube.com/watch?v=JhKXOYepX2E).
