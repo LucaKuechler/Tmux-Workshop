@@ -30,6 +30,7 @@ You can use them for free but your changes are only stored for one hour or till 
 
 * Your shell should now look like this.
 ![](./resources/initial.png)
+&nbsp;
 
 ## 4. Create your first split
 * To split the window vertically use `STRG + SPACE` + `t`
@@ -52,6 +53,7 @@ To get back to the left split just press `STRG + SPACE` + `h`.
 * **Challenge**: Try to move up from your created horizontal split.
 
 * You can close a split by typing `exit`.
+&nbsp;
 
 ## 5. Create your first window
 * To create a new window use `STRG + SPACE` + `w`. It should look like this.
@@ -64,6 +66,7 @@ You can switch to each window by using the number infront of their name.
 
 * You can temporarily maximize the current selected pane by using `STRG + SPACE` + `z`.
 To leave the maximize mode just press `STRG + SPACE` + `z` again.
+&nbsp;
 
 ## 6. Create a new session
 > A new session can be used when working on two projects simultaneously. 
@@ -88,6 +91,7 @@ Use the j key to navigate down and k to navigate up. To confirm your selection p
     ![](./resources/change.png)
     * After `ENTER`
     ![](./resources/changed.png)
+&nbsp;
 
 ## 7. The special power
 1. Execute the command `sleep 10000` that will make your terminal freeze for 10000 seconds.
